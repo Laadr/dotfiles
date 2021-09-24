@@ -139,11 +139,3 @@ export LESS_TERMCAP_se=$'\E[0m'
 export LESS_TERMCAP_so=$'\E[01;44;33m'
 export LESS_TERMCAP_ue=$'\E[0m'
 export LESS_TERMCAP_us=$'\E[01;32m'
-
-#############################
-## general aliases
-#############################
-alias sshmad="ssh alagrange@194.254.144.108"
-alias sshfsmad="sshfs alagrange@194.254.144.108:/home/alagrange/Documents ~/Documents/Dynafor/tmp"
-alias sshsig="ssh alagrange@172.26.129.45"
-alias sshfssig="sshfs alagrange@172.26.129.45:/home/alagrange/Documents ~/Documents/Dynafor/tmpSig"
